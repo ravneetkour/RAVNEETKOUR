@@ -12,6 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🐍+Python+Developer+%7C+AI%2FML+Engineer;🤖+Machine+Learning+%26+Data+Science;📊+Transforming+Data+into+Insights;🧠+Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 <br>
+
 <!-- Professional Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ravneet-kaur-nagi">
@@ -216,7 +217,7 @@ const ravneet = {
 
 <div align="center">
 
-**💬 Ask me about**: `JavaScript` • `React` • `Node.js` • `Web Development` • `Problem Solving` • `Tech Career`
+**💬 Ask me about**: `Python Programming` • `AI/ML` • `Data Science` • `Web Development` • `Problem Solving` • `Tech Career`
 
 </div>
 
@@ -329,7 +330,7 @@ const ravneet = {
 
 ### 📧 **Get In Touch**
 
-**Email**: [ravneetkaur@gmail.com](mailto:ravneetkaur@gmail.com)  
+**Email**: [ravneetkaur62429@gmail.com](mailto:ravneetkaur62429@gmail.com)  
 **Location**: India 🇮🇳
 
 <table align="center">
@@ -367,11 +368,11 @@ const ravneet = {
 **🤝 Open to collaborations, freelance projects, and exciting opportunities**
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravneetkour/ravneetkour/output/github-contribution-grid-snake-dark.svg">
+<!-- <picture> -->
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravneetkour/ravneetkour/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravneetkour/ravneetkour/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ravneetkour/ravneetkour/output/github-contribution-grid-snake.svg">
-</picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ravneetkour/ravneetkour/output/github-contribution-grid-snake.svg"> -->
+<!-- </picture> -->
 
 </div>
 
