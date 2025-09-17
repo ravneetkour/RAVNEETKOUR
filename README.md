@@ -231,7 +231,7 @@ const ravneet = {
 <tr>
 <td width="50%">
 
-### 🌐 [Portfolio Website](https://github.com/ravneetkour.github.io/)
+### 🌐 [Portfolio Website](https://ravneetkour.github.io/)
 **Personal portfolio showcase**
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkour&repo=ravneetkour.github.io&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](ravneetkour.github.io)
