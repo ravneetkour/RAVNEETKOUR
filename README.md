@@ -24,6 +24,9 @@
   <a href="mailto:ravneetkaur@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
+    <a href="https://huggingface.co/missravneetkaur">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&labelColor=FFD21E&color=FF6B35" alt="Hugging Face" />
+  </a>
 </p>
 
 <!-- Profile Views Counter -->
