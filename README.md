@@ -236,7 +236,7 @@ const ravneet = {
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkour&repo=ravneetkour.github.io&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](ravneetkour.github.io)
 
-**Tech Stack**: `React` `CSS3` `JavaScript` `Responsive Design`
+**Tech Stack**: `HTML5` `CSS3` `JavaScript` `Responsive Design`
 
 ✨ Modern and interactive design  
 🎯 Showcase of projects and skills  
