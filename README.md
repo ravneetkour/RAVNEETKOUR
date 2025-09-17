@@ -234,7 +234,7 @@ const ravneet = {
 ### 🌐 [Portfolio Website](https://ravneetkour.github.io/)
 **Personal portfolio showcase**
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkour&repo=ravneetkour.github.io&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](ravneetkour.github.io)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkour&repo=ravneetkour.github.io&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](https://github.com/ravneetkour/ravneetkour.github.io)
 
 **Tech Stack**: `HTML5` `CSS3` `JavaScript` `Responsive Design`
 
@@ -250,7 +250,7 @@ const ravneet = {
 
 [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkour&repo=task-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](https://github.com/ravneetkour/task-manager)
 
-**Tech Stack**: `MERN Stack` `JWT` `MongoDB` `Material-UI`
+**Tech Stack**: `MERN Stack` `Express.js` `MongoDB` `Material-UI`
 
 📝 Complete CRUD operations  
 ⚡ Real-time updates  
