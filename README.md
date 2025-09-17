@@ -14,21 +14,21 @@
 <br>
 <!-- Professional Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravneetkaur">
+  <a href="https://www.linkedin.com/in/ravneetkour">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/sponsors/ravneetkaur">
+  <a href="https://github.com/sponsors/ravneetkour">
     <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA" alt="Sponsor" />
   </a>
-  <a href="mailto:ravneetkaur@example.com">
+  <a href="mailto:ravneetkaur@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
 </p>
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravneetkaur&label=Profile%20Views&color=FF6B9D&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ravneetkaur?label=Followers&style=flat-square&color=FF6B9D" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ravneetkour&label=Profile%20Views&color=FF6B9D&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ravneetkour?label=Followers&style=flat-square&color=FF6B9D" alt="GitHub Followers" />
 </p>
 
 <!-- Animated GIFs -->
@@ -101,16 +101,16 @@ const ravneet = {
 <div align="center">
 
 <!-- Stats and Languages -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ravneetkaur&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&card_width=400"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravneetkaur&layout=compact&theme=radical&hide_border=true&card_width=400&langs_count=8"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ravneetkour&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&card_width=400"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravneetkour&layout=compact&theme=radical&hide_border=true&card_width=400&langs_count=8"/>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravneetkaur&theme=radical&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FF6B9D&fire=C44569&currStreakLabel=FF6B9D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravneetkour&theme=radical&hide_border=true&background=0d1117&stroke=FF6B9D&ring=FF6B9D&fire=C44569&currStreakLabel=FF6B9D" alt="GitHub Streak"/>
 </p>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravneetkaur&custom_title=Contribution%20Activity&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=C44569&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravneetkour&custom_title=Contribution%20Activity&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=C44569&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -230,10 +230,10 @@ const ravneet = {
 <tr>
 <td width="50%">
 
-### 🌐 [Portfolio Website](https://github.com/ravneetkaur/portfolio)
+### 🌐 [Portfolio Website](https://github.com/ravneetkour/portfolio)
 **Personal portfolio showcase**
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkaur&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](https://github.com/ravneetkaur/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkour&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](https://github.com/ravneetkour/portfolio)
 
 **Tech Stack**: `React` `CSS3` `JavaScript` `Responsive Design`
 
@@ -244,10 +244,10 @@ const ravneet = {
 </td>
 <td width="50%">
 
-### 💻 [Task Management App](https://github.com/ravneetkaur/task-manager)
+### 💻 [Task Management App](https://github.com/ravneetkour/task-manager)
 **Full-stack productivity application**
 
-[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkaur&repo=task-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](https://github.com/ravneetkaur/task-manager)
+[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkour&repo=task-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](https://github.com/ravneetkour/task-manager)
 
 **Tech Stack**: `MERN Stack` `JWT` `MongoDB` `Material-UI`
 
@@ -268,7 +268,7 @@ const ravneet = {
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ravneetkaur&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Stars,Commits,Repositories,PullRequest" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ravneetkour&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Stars,Commits,Repositories,PullRequest" alt="GitHub Trophies"/>
 
 </div>
 
@@ -286,8 +286,8 @@ const ravneet = {
 
 **🔗 Professional**
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://ravneetkaur.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ravneetkaur)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://ravneetkour.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ravneetkour)
 [![Resume](https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4)](#)
 
 </td>
@@ -295,18 +295,18 @@ const ravneet = {
 
 **💻 Development**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/ravneetkaur)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/ravneetkaur)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16)](https://stackoverflow.com/users/ravneetkaur)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/ravneetkour)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)](https://codepen.io/ravneetkour)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=FE7A16)](https://stackoverflow.com/users/ravneetkour)
 
 </td>
 <td align="center">
 
 **📱 Social**
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ravneetkaur)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/ravneetkaur)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A)](https://dev.to/ravneetkaur)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ravneetkour)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/ravneetkour)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A)](https://dev.to/ravneetkour)
 
 </td>
 </tr>
@@ -314,8 +314,8 @@ const ravneet = {
 
 ### 💖 **Support My Work**
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00)](https://buymeacoffee.com/ravneetkaur)
-[![GitHub Sponsors](https://img.shields.io/badge/💖%20GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA)](https://github.com/sponsors/ravneetkaur)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00)](https://buymeacoffee.com/ravneetkour)
+[![GitHub Sponsors](https://img.shields.io/badge/💖%20GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA)](https://github.com/sponsors/ravneetkour)
 
 </div>
 
@@ -329,7 +329,7 @@ const ravneet = {
 
 ### 📧 **Get In Touch**
 
-**Email**: [ravneetkaur@example.com](mailto:ravneetkaur@example.com)  
+**Email**: [ravneetkaur@gmail.com](mailto:ravneetkaur@gmail.com)  
 **Location**: India 🇮🇳
 
 <table align="center">
@@ -368,9 +368,9 @@ const ravneet = {
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravneetkaur/ravneetkaur/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravneetkaur/ravneetkaur/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ravneetkaur/ravneetkaur/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravneetkour/ravneetkour/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravneetkour/ravneetkour/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ravneetkour/ravneetkour/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
