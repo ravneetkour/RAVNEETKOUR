@@ -6,7 +6,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:C44569&height=300&section=header&text=Software%20Developer%20%7C%20Tech%20Innovator&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Solutions%20and%20Turning%20Ideas%20into%20Reality&descAlign=center&descAlignY=60)
 
 <!-- Animated Header -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FF6B9D&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=👋+Welcome+to+Ravneet+kour's+GitHub+Profile;🚀+Software+Developer+%7C+Tech+Enthusiast;💡+Creating+Innovative+Digital+Solutions)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FF6B9D&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=👋+Welcome+to+Ravneet+Kaur's+GitHub+Profile;🚀+Software+Developer+%7C+Tech+Enthusiast;💡+Creating+Innovative+Digital+Solutions)
 
 <!-- Dynamic Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+Full-Stack+Developer+%7C+Problem+Solver;💻+Building+Scalable+Applications;📱+Frontend+%26+Backend+Specialist;☁️+Cloud+%26+Modern+Tech+Enthusiast)](https://git.io/typing-svg)
@@ -14,13 +14,13 @@
 <br>
 <!-- Professional Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravneetkour">
+  <a href="https://www.linkedin.com/in/ravneet-kaur-7319b2226">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sponsors/ravneetkour">
     <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=EA4AAA" alt="Sponsor" />
   </a>
-  <a href="mailto:ravneetkour@example.com">
+  <a href="mailto:ravneetkaur62429@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
 </p>
@@ -202,7 +202,7 @@ const ravneet = {
 
 <div align="center">
 
-**💬 Ask me about**: `JavaScript` • `React` • `Node.js` • `Web Development` • `Problem Solving` • `Tech Career`
+**💬 Ask me about**: `AI/ML` • `Python` • `Data Science` • `Web Development` • `Problem Solving` • `Tech Career`
 
 </div>
 
@@ -315,7 +315,7 @@ const ravneet = {
 
 ### 📧 **Get In Touch**
 
-**Email**: [ravneetkour@example.com](mailto:ravneetkour@example.com)  
+**Email**: [ravneetkaur62429@gmail.com](mailto:ravneetkaur62429@gmail.com)  
 **Location**: India 🇮🇳
 
 <table align="center">
