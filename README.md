@@ -43,7 +43,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
 > ### **🎯 Passionate Software Developer & Tech Innovator**  
-> **📍 Currently based in [Your Location]**
+> **📍 Currently based in Chandigarh, India**
 
 <img align="right" alt="Developer" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
