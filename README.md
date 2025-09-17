@@ -288,8 +288,8 @@ const ravneet = {
 **🔗 Professional**
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://ravneetkour.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ravneetkour)
-[![Resume](https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ravneet-kaur-nagi)
+[![Resume](https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4)](https://docs.google.com/document/d/1_uvr_6QjeTnYGHVpbvE5QSkZ8AScYYxgbcd_3mTBB0k/edit?usp=sharing)
 
 </td>
 <td align="center">
