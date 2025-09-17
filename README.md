@@ -14,7 +14,7 @@
 <br>
 <!-- Professional Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravneetkour">
+  <a href="https://www.linkedin.com/in/ravneet-kaur-nagi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sponsors/ravneetkour">
