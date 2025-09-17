@@ -379,7 +379,7 @@ const ravneet = {
 <!-- Footer -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B9D&background=0D111700&center=true&vCenter=true&width=800&lines=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them;Connect%20with%20me%20and%20let's%20build%20amazing%20things!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=Thanks%20for%20visiting%21%20%E2%AD%90%20Star%20my%20repos%20if%20you%20like%20them%3BConnect%20with%20me%20on%20LinkedIn%20and%20let%27s%20collaborate%21"
     alt="Thanks for visiting — Typing SVG"
   />
 </div>
